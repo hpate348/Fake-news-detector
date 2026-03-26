@@ -2,9 +2,7 @@
 
 A machine learning web app that classifies news articles as **real or fake** using TF-IDF vectorization and Logistic Regression, trained on 44,000+ labeled articles.
 
-> **Live Demo** → [your-app.huggingface.co](#) *(add your link here)*
 
-![App Screenshot](#) *(add a screenshot here)*
 
 ---
 
