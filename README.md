@@ -68,13 +68,10 @@ fake-news-detector/
 ├── data/
 │   ├── Fake.csv
 │   └── True.csv
-├── notebooks/
-│   └── 01_eda_and_model.ipynb
 ├── model/
 │   └── model.pkl
 ├── app.py          ← Streamlit web app
 ├── train.py        ← Model training script
-├── requirements.txt
 └── README.md
 ```
 
